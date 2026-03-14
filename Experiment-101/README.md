@@ -53,7 +53,7 @@ int main(void) {
 }
 ```
 ## Output
-
+![alt text](<Screenshot 2026-03-13 104044 (1).png>)
 ---
 
 ## Result
