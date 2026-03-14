@@ -55,7 +55,7 @@ int main(void) {
 }
 ```
 ## Output
-![Output Image](1.png)
+![Output Image](exp1.png)
 ---
 
 ## Result
