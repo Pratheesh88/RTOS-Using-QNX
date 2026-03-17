@@ -250,7 +250,7 @@ main, exiting
 ---
 
 # Output
-![alt text](image.png)
+![alt text](202-1.jpeg)
 ---
 
 # Result
